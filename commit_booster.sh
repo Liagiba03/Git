@@ -1,11 +1,11 @@
 #!/bin/bash
 
 # Configurar tu nombre y correo en Git (si no lo has hecho)
-git config user.name "TuNombre"
-git config user.email "TuCorreo@example.com"
+git config user.name "Suseth Sandoval"
+git config user.email "143125742+Liagiba03@users.noreply.github.com"
 
 # Definir la cantidad de días que quieres llenar
-DAYS=30  # Puedes cambiar este número
+DAYS=45  # Puedes cambiar este número
 
 # Crear o asegurarse de que la carpeta "commit_booster" existe
 mkdir -p commit_booster

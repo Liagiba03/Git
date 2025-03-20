@@ -5,7 +5,7 @@ git config user.name "Suseth Sandoval"
 git config user.email "143125742+Liagiba03@users.noreply.github.com"
 
 # Definir la cantidad de días que quieres llenar
-DAYS=45  # Puedes cambiar este número
+DAYS=50  # Puedes cambiar este número
 
 # Crear o asegurarse de que la carpeta "commit_booster" existe
 mkdir -p commit_booster
